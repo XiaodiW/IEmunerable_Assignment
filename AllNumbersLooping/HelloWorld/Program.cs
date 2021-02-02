@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloWorld
+namespace AllNumbersLooping.HelloWorld
 {
     internal class Program
     {

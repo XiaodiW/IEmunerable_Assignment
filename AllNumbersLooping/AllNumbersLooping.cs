@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace HelloWorld
+namespace AllNumbersLooping
 {
     public class AllNumbersLooping : IEnumerable
     {

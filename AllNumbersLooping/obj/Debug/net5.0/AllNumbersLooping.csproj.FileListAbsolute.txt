@@ -1,0 +1,15 @@
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/bin/Debug/net5.0/AllNumbersLooping.deps.json
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/bin/Debug/net5.0/AllNumbersLooping.runtimeconfig.json
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/bin/Debug/net5.0/AllNumbersLooping.runtimeconfig.dev.json
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/bin/Debug/net5.0/AllNumbersLooping.dll
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/bin/Debug/net5.0/ref/AllNumbersLooping.dll
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/bin/Debug/net5.0/AllNumbersLooping.pdb
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/obj/Debug/net5.0/AllNumbersLooping.csprojAssemblyReference.cache
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/obj/Debug/net5.0/AllNumbersLooping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/obj/Debug/net5.0/AllNumbersLooping.AssemblyInfoInputs.cache
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/obj/Debug/net5.0/AllNumbersLooping.AssemblyInfo.cs
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/obj/Debug/net5.0/AllNumbersLooping.csproj.CoreCompileInputs.cache
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/obj/Debug/net5.0/AllNumbersLooping.dll
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/obj/Debug/net5.0/ref/AllNumbersLooping.dll
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/obj/Debug/net5.0/AllNumbersLooping.pdb
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/AllNumbersLooping/obj/Debug/net5.0/AllNumbersLooping.genruntimeconfig.cache

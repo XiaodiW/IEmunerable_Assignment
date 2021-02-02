@@ -1,0 +1,15 @@
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/bin/Debug/net5.0/CExercise.deps.json
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/bin/Debug/net5.0/CExercise.runtimeconfig.json
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/bin/Debug/net5.0/CExercise.runtimeconfig.dev.json
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/bin/Debug/net5.0/CExercise.dll
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/bin/Debug/net5.0/ref/CExercise.dll
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/bin/Debug/net5.0/CExercise.pdb
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/obj/Debug/net5.0/CExercise.csprojAssemblyReference.cache
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/obj/Debug/net5.0/CExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/obj/Debug/net5.0/CExercise.AssemblyInfoInputs.cache
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/obj/Debug/net5.0/CExercise.AssemblyInfo.cs
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/obj/Debug/net5.0/CExercise.csproj.CoreCompileInputs.cache
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/obj/Debug/net5.0/CExercise.dll
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/obj/Debug/net5.0/ref/CExercise.dll
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/obj/Debug/net5.0/CExercise.pdb
+/Users/xiaodi/Documents/Forsbergs/Projects/IEnumeratorAssigment/CExercise/obj/Debug/net5.0/CExercise.genruntimeconfig.cache
